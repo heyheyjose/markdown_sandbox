@@ -1,6 +1,15 @@
 ## Markdown File
-# This is a single (hashtag)
+### This is three
+#### And four
+##### Five
+###### Six
+####### Seven
+######## Eight
+######### Nine
+########## Ten
 
-This is normal paragraph text here. Until I add this #
+Hai.
+
+This is normal paragraph text here. Until I add this # (nope, only works if it's on the left side as well)
 ***
 ###### Made with &hearts; in Tampa by <a href="https://twitter.com/jdotvazquez" target="_blank">Jose Vazquez</a>
