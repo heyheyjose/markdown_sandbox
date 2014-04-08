@@ -9,4 +9,4 @@ Hai.
 
 This is normal paragraph text here. Yes, it is.
 ***
-###### Crafted with &hearts; in Tampa by <a href="https://twitter.com/jdotvazquez" target="_blank">Jose Vazquez</a>
+###### Crafted with &hearts; in Tampa
