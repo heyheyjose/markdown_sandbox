@@ -8,6 +8,8 @@
 Hai.
 
 This is normal paragraph text here. Yes, it is.
+
+This is normal paragraph text with some **bolded** and *italicized* words in it.
 ***
 ###### Crafted with &hearts; in Tampa
 
